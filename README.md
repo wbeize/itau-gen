@@ -16,7 +16,7 @@ Este repositório é voltado aos colaboradores em formação do Itaú Unibanco q
         <td width="118px"><img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png" title="source: imgur.com" height="118" align="left"/>
         <td>Portugol é uma representação textual usada no aprendizado da programação. <br>
             Também conhecido como Português Estruturado, nos permite desenvolver algoritimos de forma mais simples e intuitiva graças a regionalização, (<i>já que o Portugol é em português, rs</i>).<br>
-            Os exercícios de fixação do pseudocódigo estão <a target="_blank" href="https://github.com/Anttonino/bootcamp-generation/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Portugol">aqui</a>.</td></td>
+            Os exercícios de fixação do pseudocódigo estão <a target="_blank" href="https://github.com/wbeize/logica-de-programacao">aqui</a>.</td></td>
 </p></tr>
     
 </details>&nbsp;
