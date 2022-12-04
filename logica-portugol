@@ -1,0 +1,41 @@
+programa {
+ funcao inicio() {
+  
+         /*1. Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.*/
+ 
+     inteiro diaHoje,mesHoje,anoHoje, diaN, mesN, anoN, dias
+     cadeia nome
+ 
+/*   diaHoje = 23
+     mesHoje = 11
+     anoHoje = 2022*/
+ 
+     escreva ("qual seu nome?\n")
+     leia(nome)
+ 
+     escreva ("em qual dia cê nasceu?\n")
+     leia(diaN)
+ 
+     escreva ("em qual mês cê nasceu?\n")
+     leia(mesN)
+ 
+     escreva ("em qual ano cê nasceu?\n")
+     leia(anoN)
+ 
+     enquanto(anoN < anoHoje ou mesN < mesHoje ou diaN < diaHoje){
+       dia++
+       diaN+
+       se(dia > 30){
+         diaN = 1
+         mesN++
+         se(mesN > 12){
+           anoN++
+           mesN = 1
+         }
+       }
+     }
+     escreva("ois," nome, "cê tem" dias, "de vida.\n")
+ }
+}
+
+
