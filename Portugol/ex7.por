@@ -1,8 +1,9 @@
 programa
 {
 	
-	/*Um sistema de angústia lineares do tipo:
-	Escreva um sistema que lê os coordenadores a,b,c,d,eefe calcula e mostra os valores de xe y. */
+	/* Um sistema de angústia lineares do tipo:
+	ax + by = c & dx + ey = f, pode ser resolvido segundo: x = ce - bf sobre ae - bd & af - cd sobre ae - bd
+	Escreva um sistema que lê os coordenadores a,b,c,d,eefe calcula e mostra os valores de x e y. */
 	
 	funcao inicio()
 	{
@@ -28,14 +29,3 @@ programa
 
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 733; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
