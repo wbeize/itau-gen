@@ -12,12 +12,13 @@ Este repositório é voltado aos colaboradores em formação do Itaú Unibanco q
 <details>
   <summary><strong>💡 Lógica de Programação</strong></summary>
 
-<br><tr><p>
-        <td width="118px"><img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png" title="source: imgur.com" height="118" align="left"/>
-        <td>Portugol é uma representação textual usada no aprendizado da programação. <br>
-            Também conhecido como Português Estruturado, nos permite desenvolver algoritimos de forma mais simples e intuitiva graças a regionalização, (<i>já que o Portugol é em português, rs</i>).<br>
-            Os exercícios de fixação do pseudocódigo estão <a target="_blank" href="https://github.com/wbeize/logica-de-programacao">aqui</a>.</td></td>
-</p></tr>
+<tr><p><br>
+    <td width="118px"><img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png" title="source: imgur.com" height="118" align="left"/>
+    <td>Portugol é uma representação textual usada no aprendizado da programação. <br>
+        Também conhecido como Português Estruturado, nos permite desenvolver algoritimos de forma mais simples e intuitiva graças a regionalização, (<i>já que o Portugol é em português, rs</i>).<br>
+        Os exercícios de fixação do pseudocódigo estão <a target="_blank" href="https://github.com/wbeize/logica-de-programacao">aqui</a>.</td>
+    </td>
+</tr>
     
 </details>&nbsp;
 <br><br><br>
@@ -25,16 +26,11 @@ Este repositório é voltado aos colaboradores em formação do Itaú Unibanco q
 
 ## 👩🏽‍🦱 Autora do projeto
 
-<table>
-  <tr>
+<table><tr>
     <td align="center">
-      <a target="_blank" href="https://github.com/wbeize"><img src="https://avatars.githubusercontent.com/u/114694450?v=4" width="140px">
-        <br>
-        <b>Taira Lopes</b>
-      </a>
-      <br>
-      <sub>
-       <a href="https://www.linkedin.com/in/tairax" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  
-    </td>
-</tr>
-</table>
+    <a target="_blank" href="https://github.com/wbeize"><img src="https://avatars.githubusercontent.com/u/114694450?v=4" width="140px">
+        <br><b>Taira Lopes</b>
+</a>
+    <br><sub>
+       <a href="https://www.linkedin.com/in/tairax" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</td></tr></table>
