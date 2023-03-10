@@ -8,12 +8,10 @@
     <img><img src="https://ml.globenewswire.com/Resource/Download/09c50e37-1fc0-443b-9dbc-76bd2a03f945" title="source: gen" height="120" align="center"/>
 <br>
 <h6 align="center">
-O <a target="_blank" href="https://www.github.com/wbeize/itau-gen"> Itaú-Gen</a> é a quarta e penúltima fase do programa <a target="_blank" href="https://www.linkedin.com/posts/impulso-tec_tecnologia-sucesso-impulsotec-activity-6896462263260459008-pTBU?utm_source=share&utm_medium=member_desktop>BootCamp"> ImpulsoTec</a>, cujo objetivo é capacitar novos profissionais para o mercado de tecnologia.
-</h6>
-<h7 align="center">
+O <a target="_blank" href="https://www.github.com/wbeize/itau-gen"> Itaú-Gen</a> é a quarta e penúltima fase do programa <a target="_blank" href="https://www.linkedin.com/posts/impulso-tec_tecnologia-sucesso-impulsotec-activity-6896462263260459008-pTBU?utm_source=share&utm_medium=member_desktop>BootCamp"> ImpulsoTec</a>, cujo objetivo é capacitar novos profissionais para o mercado de tecnologia.<br><br>
 Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Unibanco que tiveram a oportunidade de extensão da capacitação por mais três meses em uma parceria entre Itaú e Generation. Criei esse repositório para centralizar nossos materiais didáticos, atividades e resoluções, para que possamos revisar o conteúdo ministrado com mais facilidade.
 <br><br><br>
-</h7>
+</h6>
   
   ## <summary><strong>Temas revisitados:</strong></summary>
 <br>
@@ -92,11 +90,9 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
   
 <tr>
     <p>
-        <td width="60px">
-          <img src="https://user-images.githubusercontent.com/114694450/224324232-65229201-7cd8-4a72-8208-a843616085ef.png" height="60" align="left"/>
-          <h4 align="center">
+        <td width="90px">
+          <img src="https://user-images.githubusercontent.com/114694450/224342236-de0558f7-538a-429f-a3ce-8f07d964b258.png" height="90" align="left"/>
           CRUD básico de um to-do-list.<br>Para visualizar, <a target="_blank" href="https://github.com/wbeize/todolist">clique</a>.<br><br>
-          </h4>
         </td>
     </p>
 </tr>
@@ -106,37 +102,17 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
   <p>
     <br><br>
     <td width="90px">
-      <img src="https://user-images.githubusercontent.com/114694450/224326667-5832e9cf-a5d1-4f27-9bdb-2a80f578dae1.png" title="source: imgur.com" height="90" align="right"/>
-      Desenvolvimento de um Blog Pessoal.<br>
-          Implementação da camada de segurança com o Spring Security no padrão HTTP Basic.
-                              O usuário poderá se cadastrar com autonomia e possuir uma senha criptografada.<br>Para visualizar, <a target="_blank" href="https://github.com/wbeize/blogen">clique</a>.<br><br>
+    <img src="https://user-images.githubusercontent.com/114694450/224342621-044b87a7-d273-40b4-9357-e1e58d062816.png" title="source: imgur.com" height="90" align="left"/> Desenvolvimento de um Blog Pessoal. Implementação da camada de segurança com o Spring Security no padrão HTTP Basic. O usuário poderá se cadastrar com autonomia e possuir uma senha criptografada.<br>Para visualizar, <a target="_blank" href="https://github.com/wbeize/blogen">clique</a>.<br><br>
     </td>
-</tr>
-   
-<br><br>
-
-<tr>
-    <p>
-        <td width="100px">
-          <img src="https://user-images.githubusercontent.com/114694450/224326667-5832e9cf-a5d1-4f27-9bdb-2a80f578dae1.png" height="100" align="left"/>
-          <h4 align="center"> Desenvolvimento de um Blog Pessoal  
-          <h4 align="center">
-          Implementação da camada de segurança com o Spring Security no padrão HTTP Basic.
-                              O usuário poderá se cadastrar com autonomia e possuir uma senha criptografada.<br>Para visualizar, <a target="_blank" href="https://github.com/wbeize/blogen">clique</a>.<br><br>
-          </h4>
-        </td>
-    </p>
 </tr>
 <br><br>
   
 <tr>
     <p>
-        <h5 align="right">
-        <td width="130px">
-          <img width="130px" src="https://user-images.githubusercontent.com/114694450/223731340-1c581e0e-9175-42ea-9003-1c1442727730.png" align="center" alt="educatech" />
-          Em nosso projeto integrador, nos foi proposto desenvolver soluções para os ODS em uma aplicação MVP, com arquitetura MVC em uma Social Rede ou E-Commerce. Fomos divididos em quatro grupos e o meu ficou responsável pelo quarto Objetivo de Desenvolvimento Sustentável, onde criamos o <a target="_blank" href="https:www.github.com/wbeize/pi-ods4">EducaTech</a>, plataforma que visa contribuir com a educação de crianças e jovens em situação de vulnerabilidade social.<br>A documentação foi feita com o Swagger e o Deploy no Render. Para visualizar, <a target="_blank" href="https://educatech.onrender.com/swagger-ui/index.html">clique aqui</a>.<br><br>
-          </h5>
-        </td>
+       <br><br>
+       <td width="90px">
+       <img src="https://user-images.githubusercontent.com/114694450/224344415-4fcec406-5cbf-483c-bb2d-a081de4d76c4.png" title="source: img.com" height="90" align="left"/> Em nosso projeto integrador, nos foi proposto desenvolver soluções para os ODS em uma aplicação MVP, com arquitetura MVC. Criamos o <a target="_blank" href="https:www.github.com/wbeize/pi-ods4">EducaTech</a>, plataforma que visa contribuir com a educação de crianças e jovens em situação de vulnerabilidade social.<br>A documentação foi feita com o Swagger e o <a target="_blank" href="https://educatech.onrender.com/swagger-ui/index.html">Deploy</a> no Render.<br><br>
+       </td>
     </p>
 </tr>
 <br><br>
