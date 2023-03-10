@@ -17,7 +17,7 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
 <br>
 <tr>
 <p>
-    <td width="140px">
+    <td width="150px">
         <img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png" title="source: imgur.com" height="120" align="right"/>
         Portugol é uma representação textual usada na iniciação ao universo da programação. Também conhecido como Português Estruturado, permite-nos o desenvolvimento de algoritimos de forma mais simples e intuitiva graças a regionalização, (<i>já que o Portugol é em português, rs</i>).<br><br>
         Os exercícios de fixação do pseudocódigo estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/portugol-gen">aqui</a>.</td>
@@ -28,7 +28,7 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
 
 <tr>
 <p>
-    <td width="140px">
+    <td width="150px">
     <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" height="120" align="left"/>
     <td>Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.<br><br>
         Os exercícios de fixação estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/java-gen">aqui</a>.<br><br>
@@ -38,8 +38,8 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
 
 
 <tr><p><br><br>
-    <td width="140px"><img src="https://www.oracle.com/a/ocom/img/mysql-logo.png" title="source: imgur.com" height="120" align="right"/>
-    <td>Portugol é uma representação textual usada na iniciação ao universo da programação. Também conhecido como Português Estruturado, permite-nos o desenvolvimento de algoritimos de forma mais simples e intuitiva graças a regionalização, (<i>já que o Portugol é em português, rs</i>).<br><br>
+    <td width="150px"><img src="https://www.oracle.com/a/ocom/img/mysql-logo.png" title="source: imgur.com" height="130" align="right"/>
+    MySQL é um Banco de Dados relacional (RDBMS – Relational Database Management Systems) com um modelo de cliente-servidor. RDBMS é um software de código aberto ou serviço usado na criação e gerenciamento de bancos de dados baseados no modelo relacional.<br><br>
         Os exercícios de fixação estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/mysql-gen">aqui</a>.</td><br><br>
     </td>
 </tr>
@@ -84,6 +84,40 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
   <br/>
 </p>
 <br><br>
+    
+<th width=390px>
+    <img src="https://camo.githubusercontent.com/3e0c5d37fbd7813d37e1693103d2a05c9761c021546888aab4ecb9c62695f135/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f373938342f373938343232352e706e67" height="90" align="left"/>
+</th>
+    
+<p align="center">
+    <section id="issues">
+           <h3>COOKBOOKs:</h3>
+           <table>
+                  <thead>
+                         <th width=250px></th>
+                         <th width=200px>Tema</th>
+                         <th width=100px>Links</th>
+                  </thead>
+                  <tbody>
+                         <tr>
+                            <td width="200px">
+                            <img src="https://ultimateqa.com/wp-content/uploads/2020/12/Java-logo-icon-1.png" height="120" align="left"/>
+                            </td>
+                            <td width="200">Cookbook (backend) Java</td>
+                            <td><a href="https://github.com/rafaelq80/cookbook_java">Confira</td>
+                         </tr>
+                         <tr>
+                            <td width="200px">
+                            <img src="https://camo.githubusercontent.com/6cb6da7c41dcdbfd12f1f12b158917989f76db494f0da40561e1f4574c838943/68747470733a2f2f692e696d6775722e636f6d2f773874544f75542e706e67" height="90" align="left"/>
+                            </td>
+                            <td width="200">Cookbook Spring Boot</td>
+                            <td><a href="https://github.com/rafaelq80/cookbook_spring">Confira</a></td>
+                         </tr>
+                  </tbody>
+           </table>
+    </section>
+</p>
+    <br><br>
   
 ## <summary><strong><left>Tarefas entregáveis:</left></strong></summary>
 <br>
@@ -115,40 +149,6 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
        </td>
     </p>
 </tr>
-<br><br>
-
-<section id="issues">
-       <h3>Tarefas entregáveis</h3>
-       <table>
-              <thead>
-                     <th width=85px>Issues</th>
-                     <th>Descrições</th>
-                     <th>Links</th>
-              </thead>
-              <tbody>
-                     <tr>
-                       <p align="center"><td>Task 1</td></p>
-                            <td>Definição da utilização e benefícios do produto.
-                              <br>Definição do escopo do projeto e início do desenho na IDEA.
-                              <br> Criação do DBA e automatização com JPA. <br> </td>
-                            <td><a href="https://github.com/wbeize/pi-ods4/tree/main/src/main/java/com/gen/educatech">Visualizar</td>
-                     </tr>
-                     <tr>
-                       <p align="center"><td>Task 2</td></p>
-                            <td>CRUD de usuário, categoria e produto.
-                              <br> Leitura e do produto pelos organizadores.</td>
-                            <td><a href="https://github.com/wbeize/pi-ods4/tree/main/src/main/java/com/gen/educatech/controller">Visualizar</a></td>
-                     </tr>
-                      <tr>
-                        <p align="center"><td>Task 3</td></p>
-                            <td>Implementação da camada de segurança com o Spring Security no padrão HTTP Basic.
-                              O usuário poderá se cadastrar com autonomia e possuir uma senha criptografada.</td>
-                            <td><a href="https://github.com/wbeize/pi-ods4/tree/main/src/main/java/com/gen/educatech/security">Visualizar</td>
-                     </tr>
-                     </tr>
-              </tbody>
-       </table>
-</section>
 <br><br>
 
 ## 👩🏽 Autora do projeto
