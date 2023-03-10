@@ -1,52 +1,194 @@
-# Itaú-Gen | BootCamp back-end em Java
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-<br><br>
-
-O Itaú-Gen é a quarta e penúltima fase do programa [Impulso Tec](https://www.linkedin.com/posts/impulso-tec_tecnologia-sucesso-impulsotec-activity-6896462263260459008-pTBU?utm_source=share&utm_medium=member_desktop), cujo objetivo é capacitar profissionais para o mercado de tecnologia.
-
-<h4 align="center">
-Este repositório é voltado aos colaboradores em formação do Itaú Unibanco que tiveram a oportunidade de extensão da capacitação por mais três meses em uma parceria entre Itaú e Generation. Criei esse repositório para centralizar nossos materiais didáticos, atividades e resoluções, para que possamos revisar o conteúdo ministrado com mais facilidade.
+<p align="center">
+    <a href="https://github.com/wbeize">
+        <img alt="Badge Status" src="https://img.shields.io/badge/status%20-projeto%20concluído-1abc9c.svg" />
+    </a>
+</p>
+<h6 align="center">itaú-gen</h6>
+<p align="center">
+    <img><img src="https://ml.globenewswire.com/Resource/Download/09c50e37-1fc0-443b-9dbc-76bd2a03f945" title="source: gen" height="120" align="center"/>
+<br>
+<h6 align="center">
+O <a target="_blank" href="https://www.github.com/wbeize/itau-gen"> Itaú-Gen</a> é a quarta e penúltima fase do programa <a target="_blank" href="https://www.linkedin.com/posts/impulso-tec_tecnologia-sucesso-impulsotec-activity-6896462263260459008-pTBU?utm_source=share&utm_medium=member_desktop>BootCamp"> ImpulsoTec</a>, cujo objetivo é capacitar novos profissionais para o mercado de tecnologia.
+</h6>
+<h7 align="center">
+Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Unibanco que tiveram a oportunidade de extensão da capacitação por mais três meses em uma parceria entre Itaú e Generation. Criei esse repositório para centralizar nossos materiais didáticos, atividades e resoluções, para que possamos revisar o conteúdo ministrado com mais facilidade.
 <br><br><br>
-</h4>
-
-  # <summary><strong>   💡   Temas revisitados:</strong></summary>
-
-<tr><p><br><br>
-    <td width="120px"><img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png" title="source: imgur.com" height="120" align="left"/>
-    <td>Portugol é uma representação textual usada na iniciação ao universo da programação. <br>
-        Também conhecido como Português Estruturado, permite-nos o desenvolvimento de algoritimos de forma mais simples e intuitiva graças a regionalização, (<i>já que o Portugol é em português, rs</i>).<br><br>
-        Os exercícios de fixação do pseudocódigo estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/portugol-gen">aqui</a>.</td><br><br>
+</h7>
+  
+  ## <summary><strong>Temas revisitados:</strong></summary>
+<br>
+<tr>
+<p>
+    <td width="140px">
+        <img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png" title="source: imgur.com" height="120" align="right"/>
+        Portugol é uma representação textual usada na iniciação ao universo da programação. Também conhecido como Português Estruturado, permite-nos o desenvolvimento de algoritimos de forma mais simples e intuitiva graças a regionalização, (<i>já que o Portugol é em português, rs</i>).<br><br>
+        Os exercícios de fixação do pseudocódigo estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/portugol-gen">aqui</a>.</td>
     </td>
+</p>    
 </tr>
+<br><br><br>
 
-  # <summary><strong>    ☕️   Java</strong></summary>
-
-<tr><p><br><br>
-    <td width="120px"><img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" height="120" align="left"/>
+<tr>
+<p>
+    <td width="140px">
+    <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" height="120" align="left"/>
     <td>Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.<br><br>
         Os exercícios de fixação estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/java-gen">aqui</a>.<br><br>
     </td>
+</p>
 </tr>
 
-  # <summary><strong>    🐋   MySQL</strong></summary>
 
 <tr><p><br><br>
-    <td width="120px"><img src="https://www.oracle.com/a/ocom/img/mysql-logo.png" title="source: imgur.com" height="120" align="left"/>
+    <td width="140px"><img src="https://www.oracle.com/a/ocom/img/mysql-logo.png" title="source: imgur.com" height="120" align="right"/>
     <td>Portugol é uma representação textual usada na iniciação ao universo da programação. Também conhecido como Português Estruturado, permite-nos o desenvolvimento de algoritimos de forma mais simples e intuitiva graças a regionalização, (<i>já que o Portugol é em português, rs</i>).<br><br>
         Os exercícios de fixação estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/mysql-gen">aqui</a>.</td><br><br>
     </td>
 </tr>
    
-<br><br><br>
+<br><br>
 
 
-## 👩🏽‍🦱 Autora do projeto
+<p align="center">
+  <sumary><strong> Ferramentas utilizadas:</strong></sumary>
+</p>
+<p align="center">
+    <a href="https://github.com/itau-gen">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </a>
+    <a href="https://github.com/itau-gen">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+    <a href="https://github.com/itau-gen">
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />    
+    <a href="https://github.com/itau-gen">
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    </a>
+    <a href="https://github.com/itau-gen">
+        <img src="https://img.shields.io/badge/PostgreS-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </a>
+    <br>
+    <a href="https:github.com/itau-gen">
+    <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=purple" />
+    </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=black" />
+    </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+    </a>
+  <br/>
+</p>
+<br><br>
+  
+## <summary><strong><left>Tarefas entregáveis:</left></strong></summary>
+<br>
+  
+<tr>
+    <p>
+        <td width="60px">
+          <img src="https://user-images.githubusercontent.com/114694450/224324232-65229201-7cd8-4a72-8208-a843616085ef.png" height="60" align="left"/>
+          <h4 align="center">
+          CRUD básico de um to-do-list.<br>Para visualizar, <a target="_blank" href="https://github.com/wbeize/todolist">clique</a>.<br><br>
+          </h4>
+        </td>
+    </p>
+</tr>
+<br><br>
+  
+<tr>
+  <p>
+    <br><br>
+    <td width="90px">
+      <img src="https://user-images.githubusercontent.com/114694450/224326667-5832e9cf-a5d1-4f27-9bdb-2a80f578dae1.png" title="source: imgur.com" height="90" align="right"/>
+      Desenvolvimento de um Blog Pessoal.<br>
+          Implementação da camada de segurança com o Spring Security no padrão HTTP Basic.
+                              O usuário poderá se cadastrar com autonomia e possuir uma senha criptografada.<br>Para visualizar, <a target="_blank" href="https://github.com/wbeize/blogen">clique</a>.<br><br>
+    </td>
+</tr>
+   
+<br><br>
 
-<table><tr>
-    <td align="center">
-    <a target="_blank" href="https://github.com/wbeize"><img src="https://avatars.githubusercontent.com/u/114694450?v=4" width="140px">
-        <br><b>Taira Lopes</b>
-</a>
-    <br><sub>
-       <a href="https://www.linkedin.com/in/tairax" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</td></tr></table>
+<tr>
+    <p>
+        <td width="100px">
+          <img src="https://user-images.githubusercontent.com/114694450/224326667-5832e9cf-a5d1-4f27-9bdb-2a80f578dae1.png" height="100" align="left"/>
+          <h4 align="center"> Desenvolvimento de um Blog Pessoal  
+          <h4 align="center">
+          Implementação da camada de segurança com o Spring Security no padrão HTTP Basic.
+                              O usuário poderá se cadastrar com autonomia e possuir uma senha criptografada.<br>Para visualizar, <a target="_blank" href="https://github.com/wbeize/blogen">clique</a>.<br><br>
+          </h4>
+        </td>
+    </p>
+</tr>
+<br><br>
+  
+<tr>
+    <p>
+        <h5 align="right">
+        <td width="130px">
+          <img width="130px" src="https://user-images.githubusercontent.com/114694450/223731340-1c581e0e-9175-42ea-9003-1c1442727730.png" align="center" alt="educatech" />
+          Em nosso projeto integrador, nos foi proposto desenvolver soluções para os ODS em uma aplicação MVP, com arquitetura MVC em uma Social Rede ou E-Commerce. Fomos divididos em quatro grupos e o meu ficou responsável pelo quarto Objetivo de Desenvolvimento Sustentável, onde criamos o <a target="_blank" href="https:www.github.com/wbeize/pi-ods4">EducaTech</a>, plataforma que visa contribuir com a educação de crianças e jovens em situação de vulnerabilidade social.<br>A documentação foi feita com o Swagger e o Deploy no Render. Para visualizar, <a target="_blank" href="https://educatech.onrender.com/swagger-ui/index.html">clique aqui</a>.<br><br>
+          </h5>
+        </td>
+    </p>
+</tr>
+<br><br>
+
+<section id="issues">
+       <h3>Tarefas entregáveis</h3>
+       <table>
+              <thead>
+                     <th width=85px>Issues</th>
+                     <th>Descrições</th>
+                     <th>Links</th>
+              </thead>
+              <tbody>
+                     <tr>
+                       <p align="center"><td>Task 1</td></p>
+                            <td>Definição da utilização e benefícios do produto.
+                              <br>Definição do escopo do projeto e início do desenho na IDEA.
+                              <br> Criação do DBA e automatização com JPA. <br> </td>
+                            <td><a href="https://github.com/wbeize/pi-ods4/tree/main/src/main/java/com/gen/educatech">Visualizar</td>
+                     </tr>
+                     <tr>
+                       <p align="center"><td>Task 2</td></p>
+                            <td>CRUD de usuário, categoria e produto.
+                              <br> Leitura e do produto pelos organizadores.</td>
+                            <td><a href="https://github.com/wbeize/pi-ods4/tree/main/src/main/java/com/gen/educatech/controller">Visualizar</a></td>
+                     </tr>
+                      <tr>
+                        <p align="center"><td>Task 3</td></p>
+                            <td>Implementação da camada de segurança com o Spring Security no padrão HTTP Basic.
+                              O usuário poderá se cadastrar com autonomia e possuir uma senha criptografada.</td>
+                            <td><a href="https://github.com/wbeize/pi-ods4/tree/main/src/main/java/com/gen/educatech/security">Visualizar</td>
+                     </tr>
+                     </tr>
+              </tbody>
+       </table>
+</section>
+<br><br>
+
+## 👩🏽 Autora do projeto
+<table>
+    <tr>
+        <td align="center">
+            <a target="_blank" href="https://github.com/wbeize">
+            <img src="https://avatars.githubusercontent.com/u/114694450?v=4" width="140px">
+            <br>
+            <b>Taira Lopes</b>
+            </a>
+            <br>
+            <sub>
+            <a href="https://www.linkedin.com/in/tairax" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+            </a>
+        </td>
+    </tr>
+</table>
