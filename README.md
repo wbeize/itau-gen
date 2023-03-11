@@ -38,7 +38,7 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
 
 
 <tr><p><br><br>
-    <td width="150px"><img src="https://www.oracle.com/a/ocom/img/mysql-logo.png" title="source: imgur.com" height="160" align="right"/>
+    <td width="140px"><img src="https://www.oracle.com/a/ocom/img/mysql-logo.png" title="source: imgur.com" height="160" align="right"/>
     MySQL é um Banco de Dados relacional (RDBMS – Relational Database Management Systems) com um modelo de cliente-servidor. RDBMS é um software de código aberto ou serviço usado na criação e gerenciamento de bancos de dados baseados no modelo relacional.<br><br>
         Os exercícios de fixação estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/mysql-gen">aqui</a>.</td><br><br>
     </td>
