@@ -18,7 +18,7 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
 <tr>
 <p>
     <td width="150px">
-        <img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png" title="source: imgur.com" height="120" align="right"/>
+        <img src="https://i.servimg.com/u/f37/19/57/66/06/lite312.png" title="source: imgur.com" height="140" align="right"/>
         Portugol é uma representação textual usada na iniciação ao universo da programação. Também conhecido como Português Estruturado, permite-nos o desenvolvimento de algoritimos de forma mais simples e intuitiva graças a regionalização, (<i>já que o Portugol é em português, rs</i>).<br><br>
         Os exercícios de fixação do pseudocódigo estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/portugol-gen">aqui</a>.</td>
     </td>
@@ -29,7 +29,7 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
 <tr>
 <p>
     <td width="150px">
-    <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" height="120" align="left"/>
+    <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" height="160" align="left"/>
     <td>Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.<br><br>
         Os exercícios de fixação estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/java-gen">aqui</a>.<br><br>
     </td>
@@ -38,7 +38,7 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
 
 
 <tr><p><br><br>
-    <td width="150px"><img src="https://www.oracle.com/a/ocom/img/mysql-logo.png" title="source: imgur.com" height="130" align="right"/>
+    <td width="150px"><img src="https://www.oracle.com/a/ocom/img/mysql-logo.png" title="source: imgur.com" height="160" align="right"/>
     MySQL é um Banco de Dados relacional (RDBMS – Relational Database Management Systems) com um modelo de cliente-servidor. RDBMS é um software de código aberto ou serviço usado na criação e gerenciamento de bancos de dados baseados no modelo relacional.<br><br>
         Os exercícios de fixação estão <a target="_blank" href="https://github.com/wbeize/itau-gen/tree/main/mysql-gen">aqui</a>.</td><br><br>
     </td>
@@ -85,8 +85,8 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
 </p>
 <br><br>
     
-<th width=390px>
-    <img src="https://camo.githubusercontent.com/3e0c5d37fbd7813d37e1693103d2a05c9761c021546888aab4ecb9c62695f135/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f373938342f373938343232352e706e67" height="90" align="left"/>
+<th width=440px>
+    <img src="https://camo.githubusercontent.com/3e0c5d37fbd7813d37e1693103d2a05c9761c021546888aab4ecb9c62695f135/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f373938342f373938343232352e706e67" height="100" align="left"/>
 </th>
     
 <p align="center">
@@ -125,7 +125,7 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
 <tr>
     <p>
         <td width="90px">
-          <img src="https://user-images.githubusercontent.com/114694450/224342236-de0558f7-538a-429f-a3ce-8f07d964b258.png" height="90" align="left"/>
+          <img src="https://user-images.githubusercontent.com/114694450/224342236-de0558f7-538a-429f-a3ce-8f07d964b258.png" height="100" align="left"/>
           CRUD básico de um to-do-list.<br>Para visualizar, <a target="_blank" href="https://github.com/wbeize/todolist">clique</a>.<br><br>
         </td>
     </p>
@@ -136,7 +136,7 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
   <p>
     <br><br>
     <td width="90px">
-    <img src="https://user-images.githubusercontent.com/114694450/224342621-044b87a7-d273-40b4-9357-e1e58d062816.png" title="source: imgur.com" height="90" align="left"/> Desenvolvimento de um Blog Pessoal. Implementação da camada de segurança com o Spring Security no padrão HTTP Basic. O usuário poderá se cadastrar com autonomia e possuir uma senha criptografada.<br>Para visualizar, <a target="_blank" href="https://github.com/wbeize/blogen">clique</a>.<br><br>
+    <img src="https://user-images.githubusercontent.com/114694450/224342621-044b87a7-d273-40b4-9357-e1e58d062816.png" title="source: imgur.com" height="100" align="left"/> Desenvolvimento de um Blog Pessoal. Implementação da camada de segurança com o Spring Security no padrão HTTP Basic. O usuário poderá se cadastrar com autonomia e possuir uma senha criptografada.<br>Para visualizar, <a target="_blank" href="https://github.com/wbeize/blogen">clique</a>.<br><br>
     </td>
 </tr>
 <br><br>
@@ -145,7 +145,7 @@ Este repositório é voltado aos colaboradores (ainda em formação) do Itaú Un
     <p>
        <br><br>
        <td width="90px">
-       <img src="https://user-images.githubusercontent.com/114694450/224344415-4fcec406-5cbf-483c-bb2d-a081de4d76c4.png" title="source: img.com" height="90" align="left"/> Em nosso projeto integrador, nos foi proposto desenvolver soluções para os ODS em uma aplicação MVP, com arquitetura MVC. Criamos o <a target="_blank" href="https:www.github.com/wbeize/pi-ods4">EducaTech</a>, plataforma que visa contribuir com a educação de crianças e jovens em situação de vulnerabilidade social.<br>A documentação foi feita com o Swagger e o <a target="_blank" href="https://educatech.onrender.com/swagger-ui/index.html">Deploy</a> no Render.<br><br>
+       <img src="https://user-images.githubusercontent.com/114694450/224344415-4fcec406-5cbf-483c-bb2d-a081de4d76c4.png" title="source: img.com" height="100" align="left"/> Em nosso projeto integrador, nos foi proposto desenvolver soluções para os ODS em uma aplicação MVP, com arquitetura MVC. Criamos o <a target="_blank" href="https:www.github.com/wbeize/pi-ods4">EducaTech</a>, plataforma que visa contribuir com a educação de crianças e jovens em situação de vulnerabilidade social.<br>A documentação foi feita com o Swagger e o <a target="_blank" href="https://educatech.onrender.com/swagger-ui/index.html">Deploy</a> no Render.<br><br>
        </td>
     </p>
 </tr>
